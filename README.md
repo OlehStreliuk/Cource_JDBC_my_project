@@ -25,6 +25,13 @@ This system allows:
 - **IntelliJ IDEA** — development environment
 
 ## 📁 Project Structure
+src/ 
+├── Main.java
+├── dao/ # Data access layer
+├── dto/ # Data transfer objects
+├── entity/ # Database entities
+├── exception/ # Custom exceptions
+├── util/ # Utility classes resources/
 
 
 
